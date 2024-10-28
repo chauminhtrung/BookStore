@@ -1,4 +1,4 @@
-# 🏡 Borcelle - bán sách online
+# 📚 Borcelle - bán sách online
 
 ---
 
@@ -45,7 +45,7 @@ Hệ thống được xây dựng dựa trên các công nghệ hiện đại v�
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
