@@ -46,7 +46,7 @@ Hệ thống được xây dựng dựa trên các công nghệ hiện đại v�
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -63,7 +63,7 @@ Hệ thống được xây dựng dựa trên các công nghệ hiện đại v�
 
 Chúng tôi xin gửi lời cảm ơn đến những cá nhân đã tham gia phát triển hệ thống:
 
-- [Minh Trung](https://github.com/chauminhtrung) -
+- [Minh Trung](https://github.com/chauminhtrung) - PS31761
 
 ---
 
